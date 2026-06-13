@@ -63,14 +63,6 @@ APK rilis tersedia di [halaman Release](https://github.com/jaweed3/TI_4520246110
 - **Nama file**: `DiceRollerApp-v1.0.0.apk`
 - **Minimal Android**: Nougat (API 24)
 
-## 📸 Screenshot
-
-| Tampilan Awal                                       | Setelah Roll                                         |
-| --------------------------------------------------- | ---------------------------------------------------- |
-| ![Screenshot](https://via.placeholder.com/360x640) | ![Screenshot](https://via.placeholder.com/360x640)  |
-
-> **Catatan**: Tambahkan screenshot dengan meletakkan file `.png` di folder `screenshots/` dan perbaruhi path di atas.
-
 ## 📝 Tugas
 
 - **Mata Kuliah**: Pemrograman Mobile
