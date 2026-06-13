@@ -66,6 +66,7 @@ APK rilis tersedia di [halaman Release](https://github.com/jaweed3/TI_4520246110
 ## 📝 Tugas
 
 - **Mata Kuliah**: Pemrograman Mobile
+- **Dosen Pengampu**: Wahid Alfaridsi Achmad Zein, M.Kom.
 - **Kelas**: TI
 - **NIM**: 452024611047
 - **Aplikasi**: Tugas 2 — Dice Roller App
